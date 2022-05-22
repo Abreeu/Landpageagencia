@@ -4,11 +4,6 @@ body {
     font-family: 'Public Sans', sans-serif;
 }
 
-/* o asterisco serve pra estilizar todos
-    os elementos html da página
-    vamos zerar a margin e o padding
-*/
-
 * {
     margin: 0;
     padding: 0;
